@@ -8,16 +8,14 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "Aashish Mehta Knowledge Base",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
-    locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    analytics: null,
+    locale: "en-GB",
+    baseUrl: "knowledge.aashishmehta.com",
+    ignorePatterns: ["private", "templates", ".obsidian", "**/draft"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
