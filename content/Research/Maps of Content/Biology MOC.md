@@ -1,0 +1,17 @@
+---
+tags:
+  - moc
+---
+- [[Cardiac Cycle]]
+- [[Circulatory System]]
+- [[Diastole]]
+- [[Haemodynamic]]
+- [[Haemolysis]]
+- [[Haemolysis Index Model]]
+- [[Heart Failure]]
+- [[Human Heart]]
+- [[Intra-Atrial Pump]]
+- [[Left Ventricle]]
+- [[Left Ventricular Assist Device]]
+- [[Systole]]
+- [[Ventricular Assist Device]]

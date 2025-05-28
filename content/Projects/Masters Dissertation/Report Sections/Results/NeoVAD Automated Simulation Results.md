@@ -1,0 +1,14 @@
+> [!info]
+> These are the results from the [[Automatic geometry creation, meshing and simulation of the NeoVAD]]
+
+The automated workflow was successfully created and allowed for up to seven simulations to be run per day with no manual interaction between them. This was significantly more efficient than manually creating a new geometry for each experiment, creating a new mesh, and running a simulation. 
+
+Compared with the initial days of manually running each simulation, it is estimated that the automated process doubled the number of simulations that were run. On days where constant manual interaction was not possible (for example weekends), the automated process was especially effective as there was a significant productivity boost from virtually zero to a full day of work. Furthermore, time that would otherwise be spent setting up and running the simulation could be spent elsewhere in the project.
+
+Some experiments could not be meshed successfully due to the blade parameters, for example, if the wrap angle was too high. If the scripts encountered such an error, it would move onto the next simulation and not produce a results file. This would then be handled in the script which detected any missing result numbers and set a placeholder result as -1 in the results file, which could be easily filtered and deleted. This could potentially be automated further using an Excel macro.
+
+There were four experiments with a failed mesh (5% of the total number). To limit the number of experiments that failed to mesh, the wrap angle could have been more closely monitored to further improve the bounds of the DoE.
+
+The scripts also accounted for various limitations caused by the project resources. The simulations were run on a separate PC that did not have Python installed. To mitigate this, the automatic meshing and simulation was conducted using an independent PowerShell script, requiring only the .bgi and .wbjn files. These files could be batch produced separately on a different PC using Python. Furthermore, the PC restarted every night, meaning the simulations could not be set off and left unattended. Therefore, the script was modified, allowing the user to provide a list of experiment numbers to be simulated. This was also useful for verifying individual results.
+
+One drawback of the scripts was that they did not provide convergence information. A batch of experiments was monitored to verify that they did converge, but it is possible that some of the unattended simulations did not. This could be improved by exporting convergence information as well as the pressure head result for each experiment.

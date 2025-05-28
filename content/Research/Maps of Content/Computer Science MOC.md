@@ -1,0 +1,19 @@
+---
+tags:
+  - moc
+---
+- [[Artificial Intelligence]]
+- [[Central Composite]]
+- [[D-optimal]]
+- [[Design of Experiments]]
+- [[Fitness Function]]
+- [[Generalized Regression Neural Network]]
+- [[Genetic Algorithm]]
+- [[Learning Vector Quantization]]
+- [[Levenberg-Marquardt]]
+- [[Machine Learning]]
+- [[Neural Network]]
+- [[NSGA-II]]
+- [[Pareto Optimality]]
+- [[SPEA2DSE]]
+- [[Termination Condition]]
