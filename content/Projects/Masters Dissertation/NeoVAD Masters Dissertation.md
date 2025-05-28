@@ -7,7 +7,9 @@ tags:
   - project
   - moc
 ---
-This is the homepage for my Mechanical Engineering Master's Dissertation at the University of Bath. 
+This is the homepage for my Mechanical Engineering Master's Dissertation at the University of Bath.
+
+All code for the project can be found [here](https://github.com/aashish1498/Ansys-Automation).
 ## Report Contents
 
 1. [[Summary]]
