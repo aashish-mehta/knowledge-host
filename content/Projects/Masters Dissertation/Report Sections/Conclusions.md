@@ -1,4 +1,4 @@
-The [[NeoVAD Master's Dissertation|project]] aimed to determine the optimum [[impeller]] and [[diffuser]] blade geometries for a novel heart pump, the [[NeoVAD]], to match the physiological [[Heart Pump Operating Conditions|operating conditions]] of a paediatric patient. 
+The [[NeoVAD Masters Dissertation|project]] aimed to determine the optimum [[impeller]] and [[diffuser]] blade geometries for a novel heart pump, the [[NeoVAD]], to match the physiological [[Heart Pump Operating Conditions|operating conditions]] of a paediatric patient. 
 
 The five [[blade parameters]] varied were impeller inlet angle (β1), impeller outlet angle (β2), diffuser inlet angle (α2), impeller length (L1), and diffuser length (L2). 
 
@@ -13,4 +13,4 @@ The blade angles obtained from [[mean-line theory]] and the initial guesses for 
 Overall, the generation of a workflow to generate the NeoVAD impeller and diffuser geometries, and perform multiple simulations was successful. Furthermore, the framework for the machine learning optimisation was created, but the implementation needed improvement. The parameter input range and correspondingly low number of simulations were the likely cause of the error.
 
 ---
-[[NeoVAD Master's Dissertation|Master's Dissertation]] | [[Summary]] | [[Aims and Objectives]] | [[Background]] | [[Literature Review]] | [[Methods]] | [[Results and Discussion]] | [[Conclusions]] | [[References]] 
+[[NeoVAD Masters Dissertation|Master's Dissertation]] | [[Summary]] | [[Aims and Objectives]] | [[Background]] | [[Literature Review]] | [[Methods]] | [[Results and Discussion]] | [[Conclusions]] | [[References]] 

@@ -11,4 +11,4 @@ The initial simulation run using blade angles determined from theory had an erro
 However, the simulated pressure increase using the parameters determined by the genetic algorithm had an error of 25% compared with the expected value. The likely cause of this was a poorly refined DoE with input ranges that were too wide, and the limited dataset. The automated workflow was created successfully and provided a significant boost in efficiency, doubling the number of simulations run per day. The framework for the optimisation process was generated and verified. A brief investigation into a numerical model to calculate blood [[Haemolysis]] was conducted.
 
 ---
-[[NeoVAD Master's Dissertation|Master's Dissertation]] | [[Summary]] | [[Aims and Objectives]] | [[Background]] | [[Literature Review]] | [[Methods]] | [[Results and Discussion]] | [[Conclusions]] | [[References]] 
+[[NeoVAD Masters Dissertation|Master's Dissertation]] | [[Summary]] | [[Aims and Objectives]] | [[Background]] | [[Literature Review]] | [[Methods]] | [[Results and Discussion]] | [[Conclusions]] | [[References]] 

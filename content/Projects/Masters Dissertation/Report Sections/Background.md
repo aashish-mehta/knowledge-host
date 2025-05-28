@@ -1,4 +1,4 @@
-This is an index for the background information referenced in the [[NeoVAD Master's Dissertation|NeoVAD Master's Dissertation]].
+This is an index for the background information referenced in the [[NeoVAD Masters Dissertation|NeoVAD Master's Dissertation]].
 
 1. The [[Human Heart]].
 2. Understanding [[Heart Failure]]
@@ -7,4 +7,4 @@ This is an index for the background information referenced in the [[NeoVAD Maste
 5. The [[NeoVAD]].
 
 ---
-[[NeoVAD Master's Dissertation|Master's Dissertation]] | [[Summary]] | [[Aims and Objectives]] | [[Background]] | [[Literature Review]] | [[Methods]] | [[Results and Discussion]] | [[Conclusions]] | [[References]] 
+[[NeoVAD Masters Dissertation|Master's Dissertation]] | [[Summary]] | [[Aims and Objectives]] | [[Background]] | [[Literature Review]] | [[Methods]] | [[Results and Discussion]] | [[Conclusions]] | [[References]] 

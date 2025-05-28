@@ -3,7 +3,7 @@ title: Home
 ---
 Welcome to my knowledge base!
 ## Projects
-- [[NeoVAD Master's Dissertation]]
+- [[NeoVAD Masters Dissertation]]
 
 ## Research
 - [[Engineering MOC]]

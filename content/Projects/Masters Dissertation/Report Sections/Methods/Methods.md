@@ -4,7 +4,7 @@ tags:
 aliases:
   - Methodology
 ---
-This section outlines the full methodological pipeline used in the [[NeoVAD Master's Dissertation|Master's Dissertation]].
+This section outlines the full methodological pipeline used in the [[NeoVAD Masters Dissertation|Master's Dissertation]].
 
 1. [[Creating the initial model]]
 2. Defining the [[Haemolysis Index Model]]
@@ -18,4 +18,4 @@ This section outlines the full methodological pipeline used in the [[NeoVAD Mast
 ![[neovad-project-workflow.png|center|desc]] A flowchart detailing the workflow of the project
 
 ---
-[[NeoVAD Master's Dissertation|Master's Dissertation]] | [[Summary]] | [[Aims and Objectives]] | [[Background]] | [[Literature Review]] | [[Methods]] | [[Results and Discussion]] | [[Conclusions]] | [[References]] 
+[[NeoVAD Masters Dissertation|Master's Dissertation]] | [[Summary]] | [[Aims and Objectives]] | [[Background]] | [[Literature Review]] | [[Methods]] | [[Results and Discussion]] | [[Conclusions]] | [[References]] 

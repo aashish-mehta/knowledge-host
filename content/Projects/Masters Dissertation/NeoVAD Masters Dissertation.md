@@ -1,8 +1,8 @@
 ---
 title: CFD and Machine Learning Optimisation of the NeoVAD
 aliases:
-  - Master's Dissertation
-  - NeoVAD Master's Dissertation
+  - Masters Dissertation
+  - NeoVAD Masters Dissertation
 tags:
   - project
   - moc

@@ -15,7 +15,7 @@ Where:
 - $t_{exp}$ is the exposure time of the red blood cells to the local shear stress
 -  α, β, and C are empirical constants
 
-*For the [[NeoVAD Master's Dissertation|NeoVAD Master's Dissertation]], C = 3.62e-5, α = 0.785, β = 2.416 from literature [[References#53]]*
+*For the [[NeoVAD Masters Dissertation|NeoVAD Master's Dissertation]], C = 3.62e-5, α = 0.785, β = 2.416 from literature [[References#53]]*
 
 ### Eulerian form
 

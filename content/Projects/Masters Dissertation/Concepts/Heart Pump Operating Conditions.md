@@ -2,7 +2,7 @@
 aliases:
   - operating conditions
 ---
-The target fluid and pump conditions for the [[NeoVAD Master's Dissertation]] are detailed below.
+The target fluid and pump conditions for the [[NeoVAD Masters Dissertation]] are detailed below.
 
 | Patient Weight (kg) | [[Flow Rate]] (L/min) | [[Pressure Head]] (mmHg) | Pump Speed (rpm) |
 | ------------------- | --------------------- | ------------------------ | ---------------- |

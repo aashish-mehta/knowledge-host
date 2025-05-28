@@ -3,7 +3,7 @@ tags: []
 aliases:
   - Lit Review
 ---
-A review of available literature and tools to decide what would be used in the [[NeoVAD Master's Dissertation|NeoVAD Master's Dissertation]].
+A review of available literature and tools to decide what would be used in the [[NeoVAD Masters Dissertation|NeoVAD Master's Dissertation]].
 
 ## Summary
 - [[Computational Fluid Dynamics]] was used for simulations, and [[Ansys CFX]] was chosen to solve the [[Navier-Stokes Equations]].
@@ -89,4 +89,4 @@ Three options were considered:
 Manually created solutions are safe, but costly in the long term, and not scalable. Given the academic nature of the project, a new commercial project would not have been feasible, and interfacing it with existing technology may prove challenging. Design modeller was an older, inflexible solution, so Ansys BladeGen was selected as the geometry creation tool. A custom pipeline would be created to support automation.
 
 ---
-[[NeoVAD Master's Dissertation|Master's Dissertation]] | [[Summary]] | [[Aims and Objectives]] | [[Background]] | [[Literature Review]] | [[Methods]] | [[Results and Discussion]] | [[Conclusions]] | [[References]] 
+[[NeoVAD Masters Dissertation|Master's Dissertation]] | [[Summary]] | [[Aims and Objectives]] | [[Background]] | [[Literature Review]] | [[Methods]] | [[Results and Discussion]] | [[Conclusions]] | [[References]] 
