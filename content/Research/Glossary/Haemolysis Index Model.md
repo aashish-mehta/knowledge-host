@@ -9,6 +9,7 @@ A power-law model used to estimate blood damage from shear stress.
 
 ### Power-Law Haemolysis model
 $$HI \left(\%\right) = C \tau_s^\alpha t_{exp}^\beta$$
+
 Where:
 - `HI` is the Haemolysis Index
 - $\tau_s$ is the local [[Shear Stress]]
@@ -22,6 +23,7 @@ Where:
 This can be linearised and used as a [[Transport Equation]].
 
 $$\frac{∂H {I} ^ {'}}  {∂t}  + v ∙ ∇H {I} ^ {'} =S$$
+
 Where:
 - $HI' = [HI]^{1/\beta}$
 - $S = (C\tau_s^\alpha)^{1/\beta}$

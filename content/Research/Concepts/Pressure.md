@@ -8,6 +8,7 @@ The force exerted per unit area on a surface.
 ## Equations
 
 $$P = \frac{F}{A}$$
+
 Where:
 - P is pressure
 - F is force

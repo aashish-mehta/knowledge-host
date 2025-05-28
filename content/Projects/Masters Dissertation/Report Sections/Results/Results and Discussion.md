@@ -6,7 +6,7 @@
 5. [[NeoVAD Automated Simulation Results]]
 6. [[NeoVAD GRNN Results]]
 7. [[NeoVAD Genetic Algorithm Results]]
-8. [[NeoVADHaemolysis Index Results]]
+8. [[NeoVAD Haemolysis Index Results]]
 
 ---
 [[NeoVAD Masters Dissertation|Master's Dissertation]] | [[Summary]] | [[Aims and Objectives]] | [[Background]] | [[Literature Review]] | [[Methods]] | [[Results and Discussion]] | [[Conclusions]] | [[References]] 

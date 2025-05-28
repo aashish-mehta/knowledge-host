@@ -7,6 +7,7 @@ tags:
 A transport equation describes the evolution of some quantity, $\phi$ over time and space, taking into account a given field $u$.
 
 $$\frac{\partial \phi}{\partial t} = \mathbf{\nabla} \cdot \boldsymbol{u} \phi \hspace{2mm} - \mathbf{\nabla} \cdot \Gamma \mathbf{\nabla} \phi + S$$
+
 Where:
 - ϕ can be any scalar  
 - $\frac{∂ϕ}{∂t}$ is the change of the scalar over time

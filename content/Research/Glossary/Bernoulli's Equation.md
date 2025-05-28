@@ -12,6 +12,7 @@ It states that the total mechanical energy per unit volume remains constant in s
 
 ### Basic Form
 $$P + \frac{1}{2}\rho v^2 + \rho gh = \text{constant}$$
+
 Where:
 - **P** = Static pressure
 - **ρ** = Fluid density  
@@ -24,6 +25,7 @@ $$\frac{P}{\rho} + \frac{v^2}{2} + gh = \text{constant}$$
 
 ### Head form (per unit weight)
 $$\frac{P}{\rho g} + \frac{v^2}{2g} + h = H_{\text{total}}$$
+
 Where:
 - - **H** = Total head
 

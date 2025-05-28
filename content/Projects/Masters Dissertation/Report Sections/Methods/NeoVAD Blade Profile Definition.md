@@ -14,6 +14,7 @@ Two MATLAB functions were written to create a curve defining the relationship be
 The fit was exponential for the [[impeller]]:
 
 $$β = {- e} ^ {- (aM+b)} + {f*β}_{2}$$
+
 Where:
 - $f$ is a factor of accuracy (set to 0.99)
 - $b=-ln(f*\beta_2 - \beta_1$)
@@ -21,6 +22,7 @@ Where:
 
 And quadratic for the [[diffuser]]:
 $$β = a * {(M- {L}_{2} )} ^ {2}$$
+
 Where:
 - $a=\frac{{β}_{1}}{{X2} ^ {2}}$
 
@@ -29,6 +31,7 @@ Where:
 The wrap angle, _θ_, defines the blade’s revolution around the hub. This was monitored to ensure the blade did not make an excessive number of revolutions using the relationship between _θ, β_ and _M_ ([[References#54]]).
 
 $$\tan {(\beta)} = r * \frac{\delta \theta}{δM}$$
+
 Where:
 - $r$ is the mean radius
 
@@ -39,6 +42,7 @@ $${\beta} ^ {\prime} = -(90- \beta)$$
 
 For the diffuser:
 $${\beta} ^ {\prime} = (90- \beta)$$
+
 Where:
 - $\beta^\prime$ is the angle input into BladeGen.
 - $\beta$ is the angle defined by theory.

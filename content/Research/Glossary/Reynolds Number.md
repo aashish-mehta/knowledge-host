@@ -9,6 +9,7 @@ The **Reynolds number** is a dimensionless parameter that characterizes the flow
 
 ## Mathematical Expression
 $$Re = \frac{\rho v L}{\mu} = \frac{v L}{\nu}$$
+
 Where:
 - **ρ** = fluid density
 - **v** = characteristic velocity

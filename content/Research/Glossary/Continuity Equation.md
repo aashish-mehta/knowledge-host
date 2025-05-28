@@ -16,6 +16,7 @@ $$\nabla \cdot (\rho \vec{v}) = 0$$
 $$\nabla \cdot \vec{v} = 0$$
 ### One-Dimensional Steady Flow
 $$\rho_1 A_1 v_1 = \rho_2 A_2 v_2 = \dot{m}$$
+
 Where:
 - **ρ** = fluid density
 - **v** = velocity vector

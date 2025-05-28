@@ -9,6 +9,7 @@ The **Navier-Stokes equations** describe the motion of viscous fluids. They repr
 ## Equations
 
 $$\frac{\partial \rho u_k}{\partial x} +  \nabla ∙ (\rho \space u \space u_k - \mu \space \nabla  u_k) = \frac{-\partial p}{\partial x_s} + F_k$$
+
 Where:
 - $\rho$ = fluid density
 - $u_k$ = quantity of interest
