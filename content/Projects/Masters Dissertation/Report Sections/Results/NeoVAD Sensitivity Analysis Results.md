@@ -11,6 +11,7 @@ The [[impeller]] outlet angle (β2) caused a 37% change in pressure compared wit
 |**3**|α2|62.8|+4.1|
 |**4**|L1|59.7|-0.92|
 |**5**|L2|48.5|-19.6|
+
 ## Impeller outlet angle effect
 
 The impeller outlet angle had a direct impact on the flow entering the diffuser. The outlet angle was sharper relative to the diffuser inlet angle, and the flow was highly misaligned between the impeller and diffuser. This may have caused the large reduction in pressure head, as the flow was not effectively propagated.

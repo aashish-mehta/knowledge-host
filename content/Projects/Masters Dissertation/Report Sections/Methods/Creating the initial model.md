@@ -6,7 +6,7 @@ The model consisted of four domains: inlet, [[impeller]], [[diffuser]], and outl
 
 ## Inlet and outlet models
 
-The inlet domain represented the flow upon entering the inlet windows in the [[NeoVAD]]. The outlet domain represented flow leaving the [[diffuser]] towards the outflow tube and the [[aorta]]. Both the inlet and outlet domains were modelled as simple tubes using [[Ansys Design Modeller]] and meshed using the Ansys mesh module. It was assumed that the cross-section of these domains was annular, as if a shaft were passed through the entire geometry.
+The inlet domain represented the flow upon entering the inlet windows in the [[NeoVAD]]. The outlet domain represented flow leaving the [[diffuser]] towards the outflow tube and the [[Aorta]]. Both the inlet and outlet domains were modelled as simple tubes using [[Ansys Design Modeller]] and meshed using the Ansys mesh module. It was assumed that the cross-section of these domains was annular, as if a shaft were passed through the entire geometry.
 
 ![[neovad-inlet-outlet-models.png|center|desc]] The inlet (left) and outlet (right) geometries in Design Modeller.
 
@@ -52,4 +52,5 @@ The blood was modelled as a Newtonian fluid with a constant viscosity and added 
 |**Dynamic Viscosity**|0.0035|Pa s|
 |**Molar Mass**|65000|kg/kmol|
 |**Heat Capacity**|4181.7|J/kg/K|
+
 ![[neovad-combined-cfd-model.png|center|desc]] The combined model in Ansys CFX.

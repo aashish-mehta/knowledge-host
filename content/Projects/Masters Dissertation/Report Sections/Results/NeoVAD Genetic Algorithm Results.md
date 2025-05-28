@@ -11,6 +11,7 @@ Using the [[NeoVAD GRNN Results|trained GRNN]] with the full dataset and a sprea
 |**α2 (degrees)**|24.2|
 |**L1 (mm)**|15.3|
 |**L2 (mm)**|18.0|
+
 This was simulated using [[Computational Fluid Dynamics|CFD]].
 
 The maximum wrap angle for the impeller with these parameters was 719 degrees. This is because of the steep inlet angle and relatively long inlet length, which forced a large wrap angle gradient (see [[NeoVAD Blade Profile Definition#Wrap angles]]).
@@ -34,7 +35,7 @@ The [[Creating the initial model|initial model's]] blade angles retrieved for [[
 All further analysis also used these values.
 
 > [!note]
-> This would not be feasible if the geometry were to be optimised for multiple [[flow rate]]s and pressure heads, so the optimisation method must be improved.
+> This would not be feasible if the geometry were to be optimised for multiple [[Flow Rate|flow rates]] and [[Pressure Head|pressure heads]], so the optimisation method must be improved.
 
 | **β1 (degrees)** | **β2 (degrees)** | **α2 (degrees)** | **L1 (mm)** | **L2 (mm)** |
 | ---------------- | ---------------- | ---------------- | ----------- | ----------- |
