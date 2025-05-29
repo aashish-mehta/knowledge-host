@@ -32,6 +32,9 @@ p {
     margin-bottom: -1.5em;
     line-height: 3em;
   }
+  &:has(span.katex) {
+    text-align: center;
+  }
 }
 table {
   margin-left: auto;

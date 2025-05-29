@@ -22,11 +22,11 @@ Where:
 
 This can be linearised and used as a [[Transport Equation]].
 
-$$\frac{∂H {I} ^ {'}}  {∂t}  + v ∙ ∇H {I} ^ {'} =S$$
+$$\frac{∂H {I'}} {∂t} + v ∙ ∇H {I'} =S$$
 
 Where:
 - $HI' = [HI]^{1/\beta}$
 - $S = (C\tau_s^\alpha)^{1/\beta}$
 - $v$ is the blood velocity
 
-From this, the Haemolysis index can be calculated as $HI = [HI’]^\beta$.
+From this, the Haemolysis index can be calculated as $HI = [HI']^\beta$.

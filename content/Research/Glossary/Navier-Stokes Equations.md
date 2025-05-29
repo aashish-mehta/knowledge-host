@@ -13,7 +13,7 @@ $$\frac{\partial \rho u_k}{\partial x} +  \nabla ∙ (\rho \space u \space u_k -
 Where:
 - $\rho$ = fluid density
 - $u_k$ = quantity of interest
-- $v$ = [[velocity]] vector
+- $v$ = velocity vector
 - $p$ = pressure
 - $μ$ = dynamic viscosity
 - $F_k$ = sources
